@@ -1,1 +1,2 @@
-error al desplegar en render, falta instalacion del paquete core
+error al desplegar en render, falta instalacion de varios paquetes 
+
